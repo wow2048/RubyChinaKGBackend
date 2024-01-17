@@ -1,2 +1,2 @@
-# RubyChinaKGBackend
-2023秋-RubyChina知识图谱后端
+# RubyChinaKGServiceCenter
+2023秋-RubyChinaKGServiceCenter
